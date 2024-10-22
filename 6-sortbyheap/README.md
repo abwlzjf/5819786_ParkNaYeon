@@ -1,2 +1,0 @@
-#SortbyHeap
-![](./sortbyheap.jpg)
