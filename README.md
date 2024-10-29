@@ -1,2 +1,2 @@
 #FindMST {result image}
-![](./8-findmst.jpg)
+![](./9-primmst.jpg)
