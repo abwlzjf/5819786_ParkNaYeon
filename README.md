@@ -1,2 +1,3 @@
 #FindMST {result image}
-![](./9-primmst.jpg)
+![](./10-dijkstra.jpg)
+![](./10-dijkstra_bonus.jpg)
